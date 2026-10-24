@@ -1,0 +1,14 @@
+torch
+transformers
+sentence-transformers
+chromadb
+bitsandbytes
+accelerate
+tensorflow
+scikit-learn
+pandas
+numpy
+matplotlib
+pillow
+scikit-image
+yahooquery
